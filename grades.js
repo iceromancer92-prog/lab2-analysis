@@ -1,4 +1,3 @@
-```javascript
 export const grades = [
   { name: "Макар", score: 85 },
   { name: "Денис", score: 92 },
