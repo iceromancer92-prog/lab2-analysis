@@ -1,0 +1,7 @@
+{
+  "name": "lab2-analysis",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Лабораторная работа №2: анализ успеваемости",
+  "main": "main.js"
+}
